@@ -1,0 +1,295 @@
+@media(max-width: 374px){
+  .mainformbox {
+      padding: 50px 20px 100px;
+  }
+
+
+ button.btn1 {
+    width: 160px;
+    height: 45px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-bottom: 4px;
+}
+button.btn2 {
+   width: 160px;
+   height: 45px;
+   font-size: 12px;
+   font-weight: 600;
+   padding-bottom: 4px;
+   margin-top: 0px;
+}
+button.btn3 {
+    width: 220px;
+    height: 56px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-bottom: 4px;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+input#inlineFormInputGroup {
+    background: transparent;
+    border: none;
+    padding: 0;
+    padding-bottom: 5px;
+}
+.mainformbox2 {
+  padding: 65px 5px 170px;
+}
+.mainform2 p {
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+.mainform23 p {
+    margin-bottom: 0px;
+    padding-top: 100px;
+}
+.page-4 p {
+    margin-bottom: 0px;
+    padding-top: 100px;
+}
+.mainform2 h2 {
+    padding-top: 110px;
+}
+
+.mainform3 .form-group {
+   width: 100%;
+   margin-bottom: 1px;
+}
+.mainformbox3 {
+    padding: 50px 40px 135px 40px;
+}
+.mianformbox3 {
+   padding-top: 14px;
+}
+.mainform3 {
+    padding: 50px 0px 50px 0px;
+}
+button.btn5 {
+    width: 110px;
+    height: 40px;
+    background-color: transparent;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+.navsection {
+   margin-top: -50px;
+}
+.mainpage4 {
+    padding: 129px 8px 200px;
+}
+.mainform2 .home4 {
+    padding-top: 15px;
+
+}
+.form-check {
+
+    padding-bottom: 25px;
+}
+.page-4 {
+
+    padding: 25px;
+}
+.mainpage5 {
+    padding: 65px 10px 180px;
+}
+.mainform6 {
+    padding: 5px 0px 50px 0px;
+}
+.mianformbox6 {
+    padding: 136px 5px 100px;
+}
+.form_pera {
+
+    margin-top: 10px;
+}
+.mainformbox8 {
+    padding: 134px 10px 200px;
+}
+.mainform8 {
+    padding: 20px 20px;
+}
+.mainform8 h2 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+
+}
+button.btn4 {
+    margin-top: 11px;
+}
+.mainformbox10 {
+    padding: 134px 5px 200px;
+}
+.mainform10 {
+    padding: 20px;
+}
+.mainformbox11 {
+    padding: 155px 5px 200px;
+}
+}
+
+ @media(min-width: 375px)and (max-width: 424px){
+ 	.mianformbox3{
+ 		padding-top: 100px;
+ 	}
+  .mainform2 h2 {
+    padding-top: 115px;
+}
+.mainform2 p {
+    margin-bottom: 5px;
+}
+  button.btn1{
+     width: 160px;
+     height: 45px;
+     font-size: 13px;
+     font-weight: 600;
+     padding-bottom: 4px;
+ }
+ button.btn2 {
+    width: 160px;
+    height: 45px;
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 4px;
+    margin-top: 0px;
+}
+.mainformbox2 {
+    padding: 40px 27px 175px;
+}
+input#inlineFormInputGroup {
+    padding-bottom: 4px;
+}
+ 	.mainform3 .form-group {
+    width: 100%;
+    margin-bottom: 7px;
+}
+.mianformbox3 {
+    /* padding-top: 100px; */
+    padding: 40px 35px 80px;
+}
+.mainform3{
+   padding: 25px 10px 25px 10px;
+}
+.navsection {
+    margin-top: -50px;
+}
+.mainpage4 {
+    padding: 129px 26px 200px;
+}
+
+.mainform2 .home4 {
+    padding-top: 20px;
+    font-size: 16px;
+}
+.form-check {
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+.mainpage5 {
+    padding: 120px 35px 190px;
+}
+.mianformbox6 {
+    padding: 140px 30px 149px;
+}
+.mainform6 {
+    padding: 25px 5px 25px 5px;
+}
+.mainform6 .retaillerlabel {
+    margin-top: 0px;
+    font-size: 14px;
+}
+.page6btn {
+    margin-top: 10px;
+}
+.mainformbox8 {
+    padding: 230px 30px 200px;
+}
+.mainform8 {
+    padding: 30px 20px;
+}
+.mainformbox10 {
+    padding: 223px 24px 185px;
+}
+.mainformbox11 {
+    padding: 225px 45px 216px;
+}
+
+ }
+
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 425px)and (max-width: 575.98px) {
+	/*firstpage*/
+  .mainform2 h2 {
+    font-size: 16px;
+    padding-top: 142px;
+    padding-bottom: 6px;
+}
+  .mainformbox {
+    padding: 50px 50px 135px 50px;
+}
+.mainformbox2 {
+    padding: 80px 50px 180px 50px;
+}
+.mainformbox3 {
+    padding: 80px 50px 180px 50px;
+}
+.mainform3 {
+    padding: 25px 20px 25px 19px;
+}
+
+	.mainform2 p{
+		margin-bottom: 14px;
+	}
+  .mainform23 p {
+      margin-bottom: 0px;
+  }
+  input#inlineFormInputGroup {
+
+    padding-bottom: 3px;
+}
+	button.btn2 {
+	    margin-bottom: 116px;
+	}
+	button.btn1, button.btn2{
+		width: 200px;
+	}
+  .mainpage4 {
+    padding: 140px 50px 175px;
+}
+
+.mainpage5 {
+    padding: 127px 62px 160px 62px;
+}
+.mianformbox6 {
+    padding: 125px 35px 135px 40px;
+}
+.mainformbox8 {
+    padding: 230px 50px 187px 50px;
+}
+.mainformbox10 {
+    padding: 220px 45px 185px 45px;
+}
+.mainformbox11 {
+    padding: 279px 50px 190px 50px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
